@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sarah436
 - 👀 I’m interested in AI ML & ROBOTICS 
 - 🌱 I’m currently learning AI & ROBOTICS
-- 💞️ I’m looking to collaborate on any AI ML projects
+- 💞️ I’m looking to collaborate on any AI ML/Robotics projects
 - 📫 How to reach me sarahkhandagale3@gmail.com
 
 <!---
